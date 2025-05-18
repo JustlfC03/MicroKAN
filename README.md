@@ -1,1 +1,1 @@
-# KANDiffusion
+# MicroKAN
