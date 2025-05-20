@@ -64,9 +64,9 @@ python pydti_noddi.py
 ```
 
 ## 6. References
-Our Supervised learning architecture codebase is modified based on [DeepDTI](https://github.com/qiyuantian/DeepDTI).
+- Our Supervised learning architecture codebase is modified based on [DeepDTI](https://github.com/qiyuantian/DeepDTI).
 
-Our Self-Supervised learning architecture codebase is modified based on [DIMOND](https://github.com/Lthinker/DIMOND).
+- Our Self-Supervised learning architecture codebase is modified based on [DIMOND](https://github.com/Lthinker/DIMOND).
 
 ## 7. Citation
 ```
