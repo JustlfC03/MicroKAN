@@ -27,7 +27,7 @@ Pre-processed diffusion MRI data from the Human Connectome Project (HCP) WU-Minn
 # Note that the bias map of a single channel is directly multiplied onto each channel of the image,
 # effectively scaling each channel uniformly without altering the diffusion model parameters. 
 
-dwibiascorrect ants mwu100307_diff.nii.gz mwu100307_diff_biascorrect.nii.gz -fslgrad mwu100307_diff.bvec mwu100307_diff.bval -mask mwu100307_diff_mask.nii.gz -bias mwu100307_diff_bias.nii.gz'
+dwibiascorrect ants mwu100307_diff.nii.gz mwu100307_diff_biascorrect.nii.gz -fslgrad mwu100307_diff.bvec mwu100307_diff.bval -mask mwu100307_diff_mask.nii.gz -bias mwu100307_diff_bias.nii.gz
 ```
 
 ## 3. Training
